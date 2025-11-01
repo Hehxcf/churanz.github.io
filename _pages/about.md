@@ -125,7 +125,7 @@ Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha
 
 **Under Review**
 
-**Short Summary:** HiRank, a hierarchical rank-oriented GNN framework that models multi-level ranking relations and integrates hierarchical message passing to improve accuracy, generalization, and interpretability in learning-to-rank tasks across various domains.
+**Short Summary:** ARFM, an Adaptive Reinforced Filtering Method that combines pseudo-labeling, reinforcement learning, and dynamic reward filtering to identify and remove spurious links in noisy social networks.
 
 </div>
 </div>
