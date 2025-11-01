@@ -28,7 +28,7 @@ My current research interests lie primarily in:
 - Spatio-temporal and Relational Modeling for Financial Time Series Forecasting.
 - Multimodal Learning with Large Language Models (LLMs).
 
-I am actively seeking <span style="color: red;">**Fall 2026 Ph.D. positions in CS/ECE/DS**</span>, as well as <span style="color: red;">**research assistant opportunities**</span> after completing my M.S. (in about five months).
+I am actively seeking <span style="color: red;">**Fall 2026 Ph.D. positions in CS/ECE/DS**</span>, as well as <span style="color: red;">**Research Assistant opportunities**</span> after completing my M.S. (in about five months).
 
 I am also open to <span style="color: red;">**collaboration opportunities**</span>—please feel free to reach out!
 
