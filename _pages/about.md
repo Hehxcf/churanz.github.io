@@ -163,9 +163,9 @@ Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
 
 # 🔥 News
 - *2025.10*: &nbsp;😁 We open-sourced the [H3M-SSMoEs](https://github.com/PeilinTime/H3M-SSMoEs).
-- *2025.10*: &nbsp;😁 Excited to share that our recent work "H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts".
+- *2025.10*: &nbsp;😁 Excited to share our recent work "H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts".
 - *2025.08*: &nbsp;😁 We open-sourced the [MaGNet](https://github.com/PeilinTime/MaGNet).
-- *2025.08*: &nbsp;😁 Excited to share that our work “MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning”.
+- *2025.08*: &nbsp;😁 Excited to share our work “MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning”.
 
 Last Update: 10/2025
 
