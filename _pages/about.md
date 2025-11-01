@@ -19,16 +19,18 @@ redirect_from:
 
 # ℹ️ Short Bio
 
-Hi, I'm Peilin, a master student at University of Califronia, San Diego.
+Hi, I’m Peilin, a master’s student at the University of California, San Diego.
 
 I have the great honor of being collaborating with Prof. [Liang Xie](https://scholar.google.com/citations?user=IQIak1wAAAAJ&hl=en&oi=ao).
 
-My current research is focused on
+My current research interests lie primarily in:
 
 - Spatio-temporal and Relational Modeling for Financial Time Series Forecasting.
 - Multimodal Learning with Large Language Models (LLMs).
 
-I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Positions**</span> and <span style="color: red;">**Research Assistant Positions**</span> after M.S graduation (about five months), and <span style="color: red;">**collobration opportunities**</span>. Feel free to reach out!
+I am actively seeking <span style="color: red;">**Fall 2026 Ph.D. positions in CS/ECE/DS**</span>, as well as <span style="color: red;">**research assistant opportunities**</span> after completing my M.S. (in about five months).
+
+I am also open to <span style="color: red;">**collaboration opportunities**</span>—please feel free to reach out!
 
 # 📖 Educations
 <table>
