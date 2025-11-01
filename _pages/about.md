@@ -71,7 +71,7 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 
 [Paper](https://arxiv.org/abs/2510.25091)
 
-<a href="https://github.com/PeilinTime/H3M-SSMoEs"><img src="https://github.com/PeilinTime/H3M-SSMoEs/blob/main/figure/overview%20of%20H3M-SSMoEs.png" alt="Star Count"></a>
+<a href="https://github.com/PeilinTime/H3M-SSMoEs"><img src="https://img.shields.io/github/stars/PeilinTime/H3M-SSMoEs.svg" alt="Star Count"></a>
 
 </div>
 </div>
@@ -92,7 +92,7 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 
 [Paper](https://arxiv.org/abs/2510.25091)
 
-<a href="https://github.com/PeilinTime/MaGNet"><img src="https://github.com/PeilinTime/MaGNet/blob/main/figrues/MaGNet%20Framework.png" alt="Star Count"></a>
+<a href="https://github.com/PeilinTime/MaGNet"><img src="https://img.shields.io/github/stars/PeilinTime/MaGNet.svg" alt="Star Count"></a>
 
 
 </div>
