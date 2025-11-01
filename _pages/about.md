@@ -58,14 +58,14 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 
 <span style="color: #5DADE2;"># denotes equal contribution</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/overview of H3M-SSMoEs.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/overview of H3M-SSMoEs.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[1] H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**
 
 **Peilin Tan**, Liang Xie, {Churan Zhi#, Dian Tu#, Chuanqi Shi#}
 
-**Under Review**
+**Under review at WWW 2026**
 
 **Short Summary:** H3M-SSMoEs, a hypergraph-based multimodal framework combining LLM reasoning and style-structured experts for stock prediction. 
 
@@ -78,14 +78,14 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/MaGNet Framework .png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/MaGNet Framework .png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[2] MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning**
 
 **Peilin Tan**, Chuanqi Shi, Dian Tu and Liang Xie
 
-**Under Review**
+**Under review at WWW 2026**
 
 **Short Summary:** MaGNet, a Mamba dual-hypergraph network that integrates advanced temporal modeling with dual hypergraph relational learning to capture both causal and global market dependencies. 
 
@@ -100,14 +100,14 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
 
 ## Contributed
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/Contend-LP.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/Contend-LP.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[3] Contend-LP:Conflict-Resilient Directed Graph Embeddings for Link Prediction**
 
 Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
 
-**Under Review**
+**Under review at WWW 2026**
 
 **Short Summary:** Contend-LP, a conflict-resilient framework for directed link prediction that disentangles node-level invariant representations and edge-level asymmetric modeling through adversarial alignment.
 
@@ -116,14 +116,14 @@ Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/ARFM.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at WWW 2026</div><img src='images/paper_main/ARFM.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[4] ARFM: Adaptive Reinforced Filtering Method for Identifying Spurious Links in Noisy Social Networks**
 
 Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha and Huan Wang
 
-**Under Review**
+**Under review at WWW 2026**
 
 **Short Summary:** ARFM, an Adaptive Reinforced Filtering Method that combines pseudo-labeling, reinforcement learning, and dynamic reward filtering to identify and remove spurious links in noisy social networks.
 
@@ -132,14 +132,14 @@ Chuanqi Shi, Asif Ali Muhammad, **Peilin Tan**, Liang Xie, Yulong Wang, Ying Sha
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_main/DPL.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review at AAAI 2026</div><img src='images/paper_main/DPL.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[5] Missing Directions in Directed Relation Learning? Equivalent Projection Alignment Makes It Possible**
 
 Chuanqi Shi, Muhammad Asif Ali, **Peilin Tan**, Huan Wang
 
-**Under Review**
+**Under review at AAAI 2026**
 
 
 **Short Summary:** DPL (Directional Projection Learner), a framework that recovers missing relation directions in partially observed directed graphs by aligning structural and directional representations through an equivalent projection mechanism.
@@ -152,7 +152,7 @@ Chuanqi Shi, Muhammad Asif Ali, **Peilin Tan**, Huan Wang
 
 Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
 
-**Under Review**
+**Under review at DASFAA 2026**
 
 
 **Short Summary:** LOSTFormer, a Linear Orthogonal Spatio-Temporal Transformer that introduces Learnable Orthogonal Rotation Attention to capture long-range spatio-temporal dependencies with linear complexity.
