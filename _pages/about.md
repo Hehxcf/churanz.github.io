@@ -21,7 +21,7 @@ redirect_from:
 
 Hi, I'm Peilin, a master student at University of Califronia, San Diego.
 
-I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Positions**</span>, **industrial research internship** after M.S graduation (about six months), and **collobration opportunities** on Agentic Learning. Feel free to reach out! 
+I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Positions**</span>, **industrial research internship** after M.S graduation (about six months), and **collobration opportunities**. Feel free to reach out! 
 
 # 📖 Educations
 <table>
@@ -39,12 +39,11 @@ I am actively seeking for <span style="color: red;">**26 Fall CS/ECE/DS PhD Posi
   </tr>
   <tr>
     <td style="width: 60px; border: none; padding: 10px 15px 10px 0;">
-      <img src="./images/hust_badge.png" width="80">
+      <img src="./images/wut_badge.png" width="80">
     </td>
     <td style="border: none; vertical-align: middle;">
       <b>Wuhan University of Technology (WUT)</b><br>
       B.S. in Information and computing science (Mathematics)<br>
-      GPA: 4.07/5.00
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
       <i>2018.09 - 2022.06</i>
