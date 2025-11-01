@@ -158,8 +158,7 @@ Yechen Yu, Liang Xie, Jiankai Zheng, **Peilin Tan**
 **Short Summary:** LOSTFormer, a Linear Orthogonal Spatio-Temporal Transformer that introduces Learnable Orthogonal Rotation Attention to capture long-range spatio-temporal dependencies with linear complexity.
 
 
-</div>
-</div>
+
 
 
 # 🔥 News
