@@ -32,7 +32,7 @@ My current research interests lie primarily in Natural Language Processing and D
       <img src="./images/ucsd_badge.png" width="80">
     </td>
     <td style="border: none; vertical-align: middle;">
-      <b>University of California, San Diego (UCSD)</b><br>
+      <b>University of California, San Diego</b><br>
       M.S. in Computer Science
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
@@ -45,7 +45,7 @@ My current research interests lie primarily in Natural Language Processing and D
     </td>
     <td style="border: none; vertical-align: middle;">
       <b>Beijing Jiaotong University</b><br>
-      B.S. in Information and Computing Science (Mathematics)<br>
+      B.S. in Computing Science<br>
     </td>
     <td style="text-align: right; border: none; vertical-align: middle; white-space: nowrap;">
       <i>2020 - 2024</i>
@@ -56,7 +56,6 @@ My current research interests lie primarily in Natural Language Processing and D
 
 # 📝 Publications 
 
-##
 
 <span style="color: #5DADE2;"># denotes equal contribution</span>
 
