@@ -10,8 +10,8 @@ main:
     url: "/#-publications"
   
    
-  # - title: "Experiences"
-  #  url: "/#-Experiences"
+  - title: "Experiences"
+   url: "/#-Experiences"
 
   - title: "News"
     url: "/#-news"
